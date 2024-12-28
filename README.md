@@ -1,4 +1,4 @@
-![MasterHead](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)
+![MasterHead](https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Shrijita+Banerjee!;" />
 </h1>
