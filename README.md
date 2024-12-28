@@ -1,4 +1,4 @@
-![MasterHead](<video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-coder-programmer-development-pack-design-animations-4936309.mp4" autoplay="autoplay" muted="muted" loop="loop" playsinline="" type="video/mp4" style=""></video>)
+![MasterHead](https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-female-development-pack-design-animations-4936328.mp4)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Shrijita+Banerjee!;" />
 </h1>
