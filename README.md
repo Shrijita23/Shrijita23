@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
+![MasterHead](https://images.app.goo.gl/hSYfQdurqnf4KEpdA)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Shrijita+Banerjee!;" />
 </h1>
